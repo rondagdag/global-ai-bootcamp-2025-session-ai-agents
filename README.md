@@ -30,21 +30,6 @@ Explore the fascinating world of AI agents with Azure! Dive into the innovative 
 | Semantic Kernel Agent Framework  | [Semantic Kernel Agent Framework](https://learn.microsoft.com/en-us/semantic-kernel/frameworks/agent/?pivots=programming-language-csharp) | The Semantic Kernel Agent Framework provides a platform within the Semantic Kernel eco-system that allow for the creation of AI agents and the ability to incorporate agentic patterns into any application based on the same patterns and features that exist in the core Semantic Kernel framework. |
 | AutoGen Agent Framework  | [AutoGen Agent Framework](https://microsoft.github.io/autogen/stable/) | AutoGen core offers an easy way to quickly build event-driven, distributed, scalable, resilient AI agent systems. Agents are developed by using the Actor model.  |
 
-## Content Owners
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-
-<table>
-<tr>
-    <td align="center"><a href="https://github.com/koreyspace">
-        <img src="https://github.com/koreyspace.png" width="100px;" alt="Korey Stegared-Pace"/><br />
-        <sub><b>Korey Stegared-Pace</b></sub>
-    </a><br />
-    </td>
-</tr></table>
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
 ## Responsible AI 
 
 Microsoft is committed to helping our customers use our AI products responsibly, sharing our learnings, and building trust-based partnerships through tools like Transparency Notes and Impact Assessments. Many of these resources can be found at [https://aka.ms/RAI](https://aka.ms/RAI).
