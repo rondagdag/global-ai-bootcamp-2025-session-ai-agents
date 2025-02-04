@@ -18,6 +18,7 @@ code.
 ## File Summary
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
+| Global AI PowerPoint | - [Presentation](https://globalaibootcamp25.blob.core.windows.net/sessions/globalaibootcamp-ai-agents.pptx) | Global AI themed slides |
 | PowerPoint        | - [Presentation](https://aka.ms/AAu3mh5) | Slides |
 | PPT Recording     | - [Presentation](https://globaleventcdn.blob.core.windows.net/assets/data/data10/DATA10.mp4) | Coming Soon  |
 | Videos            | - [Coming Soon](https://myignite.techcommunity.microsoft.com/sessions/84354) | Coming Soon |
